@@ -3,11 +3,9 @@
 
 I'm David Muchiri
 
-💻 Software Engineer at @Africastalking and @Elarian.
+💻 Software Engineer at @Microsoft
 
-🔭 Currently working on a customer engagement platform in Nairobi,Kenya.
-
-🌱 Currently learning golang and distributed systems architectures.
+🌱 Currently learning React Native, Swift and Kotlin.
 
 🔭 Interests include everything javascript, golang and distributed systems.
 
